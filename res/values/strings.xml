@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MySwymer</string>
+    <string name="title_section7">more...</string>
+    <string name="title_section6">others</string>
+    <string name="title_section5">geo-based jobs</string>
+    <string name="title_section4">video jobs</string>
+    <string name="title_section3">audio jobs</string>
+    <string name="title_section2">surveys</string>
+    <string name="title_section1">latest jobs</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+
+</resources>
